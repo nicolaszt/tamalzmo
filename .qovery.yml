@@ -1,11 +1,11 @@
 ---
 application:
-  name: "tanalzmo"
-  project: "b1a"
+  name: "tamalzmo"
+  project: "b2a"
   organization: "QoveryCommunity"
 routers:
-- name: "tanalzmo"
+- name: "main-tamalzmo"
   routes:
-  - application_name: "tanalzmo"
+  - application_name: "tamalzmo"
     paths:
     - "/*"
