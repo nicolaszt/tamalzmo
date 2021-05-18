@@ -1,0 +1,11 @@
+---
+application:
+  name: "tanalzmo"
+  project: "b1a"
+  organization: "QoveryCommunity"
+routers:
+- name: "tanalzmo"
+  routes:
+  - application_name: "tanalzmo"
+    paths:
+    - "/*"
